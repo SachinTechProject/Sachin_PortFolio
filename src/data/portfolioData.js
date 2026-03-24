@@ -8,10 +8,11 @@ export const personalInfo = {
   linkedin: "https://www.linkedin.com/in/sachin-suralkar-4b2486289/",
   avatar: "✨",
   bio: "Full Stack Developer with 1.6+ years of experience building scalable and user-focused web applications. Skilled in React, Node.js, and modern frontend technologies, with a strong focus on performance and clean architecture. Passionate about integrating AI solutions and exploring advanced web experiences to deliver innovative digital products.",
+summaryBio: "Hi, I'm Sachin Shriram Suralkar, a Full Stack Developer with 1.6+ years of experience in building scalable web applications. I focus on React, Node.js, and modern frontend technologies while exploring AI and immersive web experiences."
 };
 
 export const roles = [
-  "MENR Stack",
+  "MERN Stack",
   "Problem Solver",
   "Open Source Contributor",
   "Full Stack Developer"
@@ -77,12 +78,12 @@ export const projects = [
     link: "https://image-frontend-tawny.vercel.app/"
    },
   {
-    title: "Calculator",
-    description: "Basic Calculator the static project",
-    tech: ["HTML", "CSS", "JavaScript"],
+    title: "PortFolio",
+    description: "PortFolio project",
+    tech: ["React"],
     icon: "🎨",
     gradient: "from-pink-600 to-rose-600",
-    link: "https://sachintechproject.github.io/Calculator-project/"
+    link: "https://sachin-suralkar.vercel.app/"
   },
   {
     title: "Hotel Booking",

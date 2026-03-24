@@ -30,7 +30,7 @@ const About = () => {
           >
             <div className="bg-gradient-to-br from-slate-800 to-slate-900 p-1 rounded-2xl">
               <div className="bg-slate-900 rounded-2xl p-6 md:p-8">
-                <p className="text-gray-300 text-lg leading-relaxed">{personalInfo.bio}</p>
+                <p className="text-gray-300 text-lg leading-relaxed">{personalInfo.summaryBio}</p>
                 <div className="grid grid-cols-2 gap-4 mt-8">
                   <div>
                     <span className="text-blue-400 font-bold">📍</span>
