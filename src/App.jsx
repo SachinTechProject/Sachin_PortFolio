@@ -15,7 +15,6 @@ function App() {
     <div className="relative bg-slate-950 text-white overflow-x-hidden">
       
       <div className="relative z-10">
-        
         <ParticlesBackground />
         <Navbar />
         <Home />
