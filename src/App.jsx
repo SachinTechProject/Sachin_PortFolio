@@ -12,6 +12,7 @@ import Experience from "./components/Experience";
 
 function App() {
   return (
+    
     <div className="relative bg-slate-950 text-white overflow-x-hidden">
       
       <div className="relative z-10">
