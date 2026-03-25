@@ -12,7 +12,7 @@ summaryBio: "Hi, I'm Sachin Shriram Suralkar, a Full Stack Developer with 1.6+ y
 };
 
 export const roles = [
-  "MERN Stack",
+  "MERN Stack Developer",
   "Problem Solver",
   "Open Source Contributor",
   "Full Stack Developer"
@@ -65,7 +65,7 @@ export const projects = [
     title: "CareerMitra Job Portal",
     description: "A MERN stack project that supports different roles such as admin and user, handling CRUD operations, job searching, and quoting.",
     tech: ["React", "Node.js", "RestAPI", "JWT", "MongoDB"],
-    icon: "🌌",
+    icon: "💼", // Job / career related
     gradient: "from-purple-600 to-blue-600",
     link: "https://job-portal-frontend-ecru-chi.vercel.app/"
   },
@@ -73,15 +73,15 @@ export const projects = [
     title: "Capture Image Uploader",
     description: "A MERN stack application that allows users to capture, upload, and manage images efficiently with a user-friendly interface.",
     tech: ["MongoDB", "Express.js", "React", "Node.js", "Cloudinary"],
-    icon: "⛓️",
+    icon: "📸", // Camera / image upload
     gradient: "from-green-600 to-emerald-600",
     link: "https://image-frontend-tawny.vercel.app/"
    },
   {
-    title: "PortFolio",
-    description: "PortFolio project",
+    title: "Portfolio",
+    description: "Personal portfolio showcasing projects and skills.",
     tech: ["React"],
-    icon: "🎨",
+    icon: "👨‍💻", // Developer / portfolio
     gradient: "from-pink-600 to-rose-600",
     link: "https://sachin-suralkar.vercel.app/"
   },
@@ -89,7 +89,7 @@ export const projects = [
     title: "Hotel Booking",
     description: "User interaction and static content",
     tech: ["HTML", "CSS", "BootStrap", "JavaScript"],
-    icon: "📋",
+    icon: "🏨", // Hotel related
     gradient: "from-orange-600 to-amber-600",
     link:"https://sachintechproject.github.io/hotel-projects/"
   }
@@ -102,12 +102,12 @@ export const experiences = [
     location: "Hyderabad, India",
     period: "Feb 2025 - Present",
     description: [
-      "mplemented social login integrations including Apple, Google, Twitter, and Facebook, along with secure authentication using Keycloak (SSO).",
+      "Implemented social login integrations including Apple, Google, Twitter, and Facebook, along with secure authentication using Keycloak (SSO).",
       "Integrated blockchain functionality with MetaMask for secure user interactions.",
       "Developed both frontend (React) and backend services, ensuring seamless full-stack functionality.",
       "Managed database and deployment using PostgreSQL, Docker, and Frappe."
     ],
-    icon: "💼",
+    icon: "💻", // Full-time developer role
     technologies: ["React", "Node.js", "GraphQL", "TypeScript", "AWS"],
     gradient: "from-blue-600 to-indigo-600"
   },
@@ -121,9 +121,9 @@ export const experiences = [
       "Worked on deploying the Help Chat feature.",
       "Learned and implemented Cloudflare for performance and security.",
       "Purchased and configured a domain with proper security setup.",
-      "Set up MetaMask integration and used Docker for deployment"
+      "Deployed a smart contract on the Base Sepolia testnet, demonstrating hands-on experience with blockchain development, testing, and deployment workflows"
     ],
-    icon: "🎨",
+    icon: "🧑‍💻", // Learning + coding phase
     technologies: ["React", "Redux", "Tailwind CSS", "Jest", "Figma"],
     gradient: "from-purple-600 to-pink-600"
   },
@@ -138,15 +138,15 @@ export const experiences = [
       "RESTful API endpoints using Swagger/OpenAPI, improving developer onboarding efficiency and cross-team collaborations",
       "Worked with SQL databases to design, query, and manage structured data for scalable application functionality "
     ],
-    icon: "🚀",
+    icon: "🌱", // Beginner / growth stage
     technologies: ["MongoDB", "Express.js", "React", "Node.js", "Git"],
     gradient: "from-green-600 to-emerald-600"
   }
 ];
 
 export const achievements = [
-  "✨ 10+ Projects Completed",
+  "✨ 3+ Projects Completed",
   "🌍 1+ Countries Clients", 
-  "🏆 Hackathon Finalist",
-  "📝 2+ Open Source Contributions"
+  
+  "📝 1+ Open Source Contributions"
 ];

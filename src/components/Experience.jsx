@@ -25,7 +25,7 @@ const Experience = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-cyan-400 mx-auto mt-4 rounded-full"></div>
           <p className="text-gray-400 mt-4 max-w-2xl mx-auto">
-            Over 4 years of professional experience in building scalable web applications
+            Over 1.6+ years of professional experience in building scalable web applications
           </p>
         </motion.div>
 
@@ -188,10 +188,10 @@ const Experience = () => {
           className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-6"
         >
           {[
-            { value: "1.6+", label: "Years Experience", icon: "💼" },
-            { value: "2+", label: "Projects Delivered", icon: "🚀" },
-            { value: "2+", label: "Happy Clients", icon: "😊" },
-            { value: "24/7", label: "Support Available", icon: "⚡" }
+           { value: "1.6+", label: "Years Experience", icon: "💼" },
+  { value: "4+", label: "Projects Completed", icon: "📂" },
+  { value: "2+", label: "Internships / Roles", icon: "🧑‍💻" },
+  { value: "100%", label: "Project Dedication", icon: "🔥" }
           ].map((stat, idx) => (
             <motion.div
               key={idx}

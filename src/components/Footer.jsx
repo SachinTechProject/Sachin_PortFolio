@@ -5,10 +5,10 @@ const Footer = () => {
     <footer className="relative py-8 text-center border-t border-white/10 bg-slate-950/50">
       <div className="container mx-auto px-6">
         <p className="text-gray-400 text-sm">
-          © {currentYear} AstralPort. Crafted with{" "}
-          <span className="text-red-500">❤️</span> using React + Tailwind + Particles.
+          © {currentYear} Sachin. Designed and developed by me using{" "}
+          <span className="text-red-500">❤️</span> with React, Tailwind CSS, and Particles.
           <br />
-          All content is for portfolio demonstration purposes.
+          This portfolio showcases my personal projects and skills.
         </p>
         <div className="flex justify-center gap-4 mt-3">
           <span className="text-xs text-gray-500">✨ Creative Developer</span>
