@@ -7,8 +7,8 @@ export const personalInfo = {
   github: "https://github.com/SachinTechProject",
   linkedin: "https://www.linkedin.com/in/sachin-suralkar-4b2486289/",
   avatar: "✨",
-  bio: "Full Stack Developer with 1.6+ years of experience building scalable and user-focused web applications. Skilled in React, Node.js, and modern frontend technologies, with a strong focus on performance and clean architecture. Passionate about integrating AI solutions and exploring advanced web experiences to deliver innovative digital products.",
-summaryBio: "Hi, I'm Sachin Shriram Suralkar, a Full Stack Developer with 1.6+ years of experience in building scalable web applications. I focus on React, Node.js, and modern frontend technologies while exploring AI and immersive web experiences."
+  bio: "Full Stack Developer with 1.7+ years of experience building scalable and user-focused web applications. Skilled in React, Node.js, and modern frontend technologies, with a strong focus on performance and clean architecture. Passionate about integrating AI solutions and exploring advanced web experiences to deliver innovative digital products.",
+summaryBio: "Hi, I'm Sachin Shriram Suralkar, a Full Stack Developer with 1.7+ years of experience in building scalable web applications. I focus on React, Node.js, and modern frontend technologies while exploring AI and immersive web experiences."
 };
 
 export const roles = [
